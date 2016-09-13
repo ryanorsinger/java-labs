@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20bf3c89-4156-44f2-92c7-bc9109ac83a2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/codeup/java/LabFour.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/codeup/java/LabThree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/codeup/java/LabTwo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/labSolutions/com/codeup/java/LabOne.class" afterPath="$PROJECT_DIR$/out/production/labSolutions/com/codeup/java/LabOne.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/codeup/java/LabOne.java" afterPath="$PROJECT_DIR$/src/com/codeup/java/LabOne.java" />
-    </list>
+    <list default="true" id="20bf3c89-4156-44f2-92c7-bc9109ac83a2" name="Default" comment="" />
     <ignored path="labSolutions.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -696,7 +689,7 @@
       <workItem from="1472591367513" duration="3003000" />
       <workItem from="1473128950625" duration="6426000" />
       <workItem from="1473210533711" duration="878000" />
-      <workItem from="1473778972114" duration="4713000" />
+      <workItem from="1473778972114" duration="4746000" />
     </task>
     <servers />
   </component>
@@ -712,7 +705,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22066000" />
+    <option name="totallyTimeSpent" value="22099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-212" y="-1177" width="1920" height="1177" extended-state="6" />
