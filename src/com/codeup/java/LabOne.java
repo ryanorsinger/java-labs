@@ -23,5 +23,6 @@ public class LabOne {
             userChoice = scan.next();
         } while (userChoice.equalsIgnoreCase("y"));
 
+        System.out.println("Thank you for using the Codeup room size calculator!");
     }
 }
